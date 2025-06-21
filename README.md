@@ -39,7 +39,7 @@ I build beautiful, responsive, and user-friendly web interfaces using modern tec
 
 ## 📈 GitHub Stats
 
-![Abhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Abhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhirajDhamak&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
