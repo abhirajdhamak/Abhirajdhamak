@@ -48,7 +48,7 @@ I build beautiful, responsive, and user-friendly web interfaces using modern tec
 ## 📫 Connect With Me
 
 - 🌐 [Portfolio](https://yourportfolio.netlify.app)
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+- 💼 [LinkedIn](www.linkedin.com/in/abhiraj-dhamak-52427b22a)
 - 📧 Email: abhirajedhamak@gmail.com
 
 ---
