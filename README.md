@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I’m Abhiraj Dhamak
 
-<!--
-**abhirajdhamak/Abhirajdhamak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Passionate **Frontend Developer** | 🛠️ ReactJS Specialist | 🎓 Computer Engineer
 
-Here are some ideas to get you started:
+I build beautiful, responsive, and user-friendly web interfaces using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+- 🌐 **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
+- 🧰 **Tools**: Git, GitHub, VSCode, Netlify, Figma
+- 📦 **Package Managers**: npm, yarn
+- 🌍 **Deployment**: GitHub Pages, Netlify, Vercel
+
+---
+
+## 💼 Featured Projects
+
+### 📱 React Portfolio Website  
+> Personal portfolio built using React + Tailwind. Fully responsive and deployed on Netlify.  
+[🔗 Live Demo](https://your-portfolio.netlify.app) | [💻 GitHub Repo](https://github.com/yourusername/react-portfolio)
+
+---
+
+### 🛒 E-Commerce Frontend UI  
+> A React-based ecommerce homepage with dynamic product cards and cart badge.  
+**Tech**: React, CSS Grid, React Icons  
+[🔗 Live Demo](https://your-ecommerce-ui.netlify.app) | [💻 GitHub Repo](https://github.com/yourusername/react-ecommerce-ui)
+
+---
+
+### 📆 To-Do App  
+> A clean, simple React to-do app with local storage support.  
+**Tech**: React Hooks, LocalStorage API  
+[🔗 Live Demo](https://your-todo-app.netlify.app) | [💻 GitHub Repo](https://github.com/yourusername/react-todo-app)
+
+---
+
+## 📈 GitHub Stats
+
+![Abhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 [Portfolio](https://yourportfolio.netlify.app)
+- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+- 📧 Email: abhirajedhamak@gmail.com
+
+---
+
+⚡ *I’m currently looking for frontend internships or freelance projects. Let's connect and build something awesome together!*
